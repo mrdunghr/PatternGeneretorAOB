@@ -1,0 +1,16 @@
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\bin\Debug\net6.0-windows\PatternGeneretor.exe
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\bin\Debug\net6.0-windows\PatternGeneretor.deps.json
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\bin\Debug\net6.0-windows\PatternGeneretor.runtimeconfig.json
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\bin\Debug\net6.0-windows\PatternGeneretor.dll
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\bin\Debug\net6.0-windows\PatternGeneretor.pdb
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.Form1.resources
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.csproj.GenerateResource.cache
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.AssemblyInfoInputs.cache
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.AssemblyInfo.cs
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.csproj.CoreCompileInputs.cache
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.dll
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\refint\PatternGeneretor.dll
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.pdb
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\PatternGeneretor.genruntimeconfig.cache
+C:\Users\zxgak\source\repos\PatternGeneretor\PatternGeneretor\obj\Debug\net6.0-windows\ref\PatternGeneretor.dll
